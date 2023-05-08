@@ -33,3 +33,7 @@ Colocando este comando en la consola de git bash:
 ```bash
   java -jar "Alumno.jar"
 ```
+
+### Diagrama de casos de uso
+
+![Image](https://github.com/FlorAmado/Proyecto_Integrador/blob/master/images/diagrama-casos-uso.png)
