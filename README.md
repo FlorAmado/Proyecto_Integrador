@@ -7,13 +7,13 @@
 
 ### ¿Que necesito para la gestion de mis alumnos?
 
-- Alta de alumno, es decir, poder **agregar** un alumno a mi base de datos.
+- Alta de alumno,lo que implica poder **agregar** un alumno a la base de datos.
 
-- Baja de alumno, es decir, poder eliminar un alumno de mi base de datos.
+- Baja de alumno, es decir, poder **eliminar** un alumno de la base de datos.
 
-- Busqueda de alumno, es decir, buscar a un alumno por un identificador unico como lo es su DNI.
+- Busqueda de alumno, **buscar** al mismo por un identificador unico como lo es su DNI.
 
-- Actualizacion de alumno, es decir, poder modificar uno o mas datos del alumno.
+- Actualizacion de alumno, permitiendo **actualizar** uno o mas datos del alumno.
 
 ### Para poder administrar a sus alumnos debe seguir estos 2 simples pasos:
 
