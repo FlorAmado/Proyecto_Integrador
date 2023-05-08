@@ -15,7 +15,7 @@
 
 - Actualizacion de alumno, es decir, poder modificar uno o mas datos del alumno.
 
-### Para poder administrar a sus alumnos debe seguir estos pasos:
+### Para poder administrar a sus alumnos debe seguir estos 2 simples pasos:
 
 1) Clonar el repositorio, ¿Como?
 
