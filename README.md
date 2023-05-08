@@ -15,7 +15,7 @@
 
 - Actualizacion de alumno, permitiendo **actualizar** uno o mas datos del alumno.
 
-### Para poder administrar a sus alumnos debe seguir estos 2 simples pasos:
+### Para poder administrar a sus alumnos debe seguir estos 3 simples pasos:
 
 1) Clonar el repositorio, ¿Como?
 
@@ -28,7 +28,12 @@ Colocando este comando en la consola de git bash:
 ```bash
   git clone https://github.com/FlorAmado/Proyecto_Integrador.git
 ```
-2) Ejecuto el proyecto alumno.jar, de esta manera en la consola:
+2) Ingreso en la carpeta desde la consola:
+
+```bash
+  cd proyecto_integrador
+```
+3) Ejecuto el proyecto alumno.jar, de esta manera en la consola:
 
 ```bash
   java -jar "Alumno.jar"
